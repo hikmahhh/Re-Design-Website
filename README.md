@@ -1,6 +1,7 @@
 # Nurul Hikmah
 
-##Before 
+## Before 
+![Gambar](https://github.com/hikmahhh/Re-Design-Website/blob/main/screenshot/Before%201.png)
 
 
 
